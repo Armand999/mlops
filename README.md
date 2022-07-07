@@ -14,3 +14,5 @@ Le fichier clé permettant ces actions est `.github/workflows/main.yaml`.
 La seule variable d'environnement définie dans `.github/workflows/main.yaml` est `GITHUB_TOKEN`, qui est configurée par défaut dans chaque référentiel GitHub. Aucun secret ne doit être défini par l'utilisateur. 
 
 # Créer un pipeline CI/CD pour Amazon ECS avec GitHub Actions et AWS CodeBuild Tests
+
+Amazon Elastic Container Service (Amazon ECS) est un service d'orchestration de conteneurs entièrement géré qui facilite l'exploitation des charges de travail conteneurisées à grande échelle.
