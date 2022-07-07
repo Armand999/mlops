@@ -10,7 +10,7 @@ Lorsqu'une demande d'extraction est effectuée dans ce référentiel, les évén
 
 Le fichier clé permettant ces actions est `.github/workflows/main.yaml`.
 
-## Secrets and variables environnement 
+## Secrets et variables d'environnement 
 La seule variable d'environnement définie dans `.github/workflows/main.yaml` est `GITHUB_TOKEN`, qui est configurée par défaut dans chaque référentiel GitHub. Aucun secret ne doit être défini par l'utilisateur. 
 
 # Créer un pipeline CI/CD pour Amazon ECS avec GitHub Actions et AWS CodeBuild Tests
