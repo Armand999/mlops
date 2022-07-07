@@ -4,7 +4,7 @@
 
 Ce repository contient un projet utilisant L'apprentissage automatique continu pour la mise en œuvre de l'intégration et du déploiement continues (CI/CD) en mettant l'accent sur les MLOps. 
 Lorsqu'une demande d'extraction est effectuée dans ce référentiel, les événements suivants se produisent :
-- GitHub déploiera une machine d'exécution avec un environnement apprentissage automatique continu Docker spécifié
+- GitHub déploiera une machine d'exécution avec un environnement d'apprentissage automatique continu Docker spécifié
 - L'exécuteur exécutera un workflow pour former un modèle ML (`python train.py`)
 - Un rapport visuel d'apprentissage automatique continu sur les performances du modèle sera renvoyé sous forme de commentaire dans la demande d'extraction
 
