@@ -16,3 +16,4 @@ La seule variable d'environnement définie dans `.github/workflows/main.yaml` es
 # Créer un pipeline CI/CD pour Amazon ECS avec GitHub Actions et AWS CodeBuild Tests
 
 Amazon Elastic Container Service (Amazon ECS) est un service d'orchestration de conteneurs entièrement géré qui facilite l'exploitation des charges de travail conteneurisées à grande échelle.
+Avec ce modèle que nous venons de mettre en place on pourrait le déployer Amazone ECS
